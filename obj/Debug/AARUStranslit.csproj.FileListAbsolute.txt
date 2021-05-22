@@ -1,0 +1,15 @@
+D:\aatranslit\AAtranslitWPF\bin\Debug\AAtranslitWPF.exe.config
+D:\aatranslit\AAtranslitWPF\bin\Debug\AAtranslitWPF.exe
+D:\aatranslit\AAtranslitWPF\bin\Debug\AAtranslitWPF.pdb
+D:\aatranslit\AAtranslitWPF\obj\Debug\AARUStranslit.csprojAssemblyReference.cache
+D:\aatranslit\AAtranslitWPF\obj\Debug\MainWindow.g.cs
+D:\aatranslit\AAtranslitWPF\obj\Debug\App.g.cs
+D:\aatranslit\AAtranslitWPF\obj\Debug\AAtranslitWPF_MarkupCompile.cache
+D:\aatranslit\AAtranslitWPF\obj\Debug\AAtranslitWPF_MarkupCompile.lref
+D:\aatranslit\AAtranslitWPF\obj\Debug\MainWindow.baml
+D:\aatranslit\AAtranslitWPF\obj\Debug\AAtranslitWPF.g.resources
+D:\aatranslit\AAtranslitWPF\obj\Debug\AAtranslitWPF.Properties.Resources.resources
+D:\aatranslit\AAtranslitWPF\obj\Debug\AARUStranslit.csproj.GenerateResource.cache
+D:\aatranslit\AAtranslitWPF\obj\Debug\AARUStranslit.csproj.CoreCompileInputs.cache
+D:\aatranslit\AAtranslitWPF\obj\Debug\AAtranslitWPF.exe
+D:\aatranslit\AAtranslitWPF\obj\Debug\AAtranslitWPF.pdb

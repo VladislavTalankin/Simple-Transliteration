@@ -1,0 +1,15 @@
+D:\aatranslit\AAtranslitWPF\bin\Release\AAtranslitWPF.exe.config
+D:\aatranslit\AAtranslitWPF\bin\Release\AAtranslitWPF.exe
+D:\aatranslit\AAtranslitWPF\bin\Release\AAtranslitWPF.pdb
+D:\aatranslit\AAtranslitWPF\obj\Release\AAtranslitWPF.csprojAssemblyReference.cache
+D:\aatranslit\AAtranslitWPF\obj\Release\MainWindow.g.cs
+D:\aatranslit\AAtranslitWPF\obj\Release\App.g.cs
+D:\aatranslit\AAtranslitWPF\obj\Release\AAtranslitWPF_MarkupCompile.cache
+D:\aatranslit\AAtranslitWPF\obj\Release\AAtranslitWPF_MarkupCompile.lref
+D:\aatranslit\AAtranslitWPF\obj\Release\MainWindow.baml
+D:\aatranslit\AAtranslitWPF\obj\Release\AAtranslitWPF.g.resources
+D:\aatranslit\AAtranslitWPF\obj\Release\AAtranslitWPF.Properties.Resources.resources
+D:\aatranslit\AAtranslitWPF\obj\Release\AAtranslitWPF.csproj.GenerateResource.cache
+D:\aatranslit\AAtranslitWPF\obj\Release\AAtranslitWPF.csproj.CoreCompileInputs.cache
+D:\aatranslit\AAtranslitWPF\obj\Release\AAtranslitWPF.exe
+D:\aatranslit\AAtranslitWPF\obj\Release\AAtranslitWPF.pdb
