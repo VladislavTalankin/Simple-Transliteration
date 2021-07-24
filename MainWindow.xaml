@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AAtranslitWPF"
         mc:Ignorable="d"
-        Title="Транслит" Height="400" Width="800">
+        Title="Транслит" Height="400" Width="800" Initialized="Window_Initialized" Activated="Window_Activated">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
@@ -18,5 +18,6 @@
         <Button Content="←" Grid.Column="1" HorizontalAlignment="Center" Height="60" Margin="5,110,0,0" VerticalAlignment="Top" Width="60" FontSize="24" Click="Button_Click_1"/>
         <Label Content="&quot;Английский&quot; текст" Grid.Column="0" HorizontalAlignment="Left" Margin="10,14,0,0" VerticalAlignment="Top"/>
         <Label Content="Русский текст" Grid.Column="2"  HorizontalAlignment="Left" Margin="10,15,0,0" VerticalAlignment="Top"/>
+        <Button Content="Настройка" Grid.Column="1" HorizontalAlignment="Center" Height="60" Margin="12,175,8,0" VerticalAlignment="Top" Width="60" FontSize="11" Click="Button_Click_2"/>
     </Grid>
 </Window>
